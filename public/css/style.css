@@ -1,0 +1,50 @@
+form .avatar{
+    width: 55px;
+    margin-bottom: 15px;
+}
+
+.navbar .container-avatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    margin-left: 20px;
+    margin-right: -5px;
+}
+
+
+#avatar-photo{
+
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    margin-left: 0px;
+}
+
+.pub_image .container-avatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    margin-left: 0px;
+}
+
+.pub_image .container-avatar img {
+
+    margin-left: 0px;
+}
+
+.navbar .container-avatar img{
+    height: 100%;
+}
+
+.pub_image .container-avatar img{
+    height: 100%;
+}
+
+
+.pub_image .data-user{
+    font-weight: bold;
+    line-height: 35px;
+}
